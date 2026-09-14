@@ -4,6 +4,7 @@ emoji: "🍓"
 type: "tech"
 topics: ["raspberrypi", "yahooauction", "mercari", "flea", "selfhosted"]
 published: true
+price: 200
 ---
 
 Raspberry Pi 4 Model B 8GBを買うために、Yahooオークション、Yahoo フリマ、メルカリをあれこれチェックして、かなり時間を使った。
